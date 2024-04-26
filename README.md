@@ -1,6 +1,6 @@
 # 국내 주식데이터를 활용한 주가 예측
 KUDA_비대면조_토이프로젝트_국내 주식데이터를 활용한 주가 예측
-# 국내 주식데이터를 활용한 주가 예측
+
 
 ## 프로젝트 소개
 ![스크린샷(1)](https://github.com/khuda-5th/ML_Non_contact_Stock_market_prediction/assets/83733215/f4e2abf4-f27e-4b30-95bc-345054f436fc)
